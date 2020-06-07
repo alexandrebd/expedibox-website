@@ -1,0 +1,161 @@
+
+
+
+.main-blue {
+	background-color: #0D99D6;
+}
+
+.top-bar {
+	background-color: #18222F;
+	color: #FFFFFF;
+	text-align: right;
+	font-size: 13px;
+	align-content: center;
+	height: 30px;
+	padding: 5px 36.87px 6px 0px;
+}
+
+.font-main {
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+	color: #7D7D7D;
+	font-size: 16px;
+}
+
+.btn-text {
+	color: #FFFFFF;
+	font-size: 17px;
+	letter-spacing: 0.495833px;
+}
+
+.btn-text:hover {
+	color: #094A66;
+}
+
+.btn-account {
+	line-height: 20px;
+	padding: 14px 20.17px 15px 17.84px;
+	border: 0px;
+}
+
+ .navbar {
+  min-height: 65px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 65px;
+  line-height: 65px;
+}
+
+.navbar-toggler {
+	border-radius: 0;
+	width: 65px;
+	justify-content: center;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.nav-link:active,
+.nav-link:hover {
+	color: #0D99D6;
+}
+
+.footer-section1 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 0px 0px 0px 6.91%;
+	color: #18222F;
+	text-align: left;
+	font-size: 14.4444px;
+	letter-spacing: 0.451389px;
+	line-height: 45px;
+}
+
+.footer-section1 > div {
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+.footer-address {
+	color: #7C7C7C;
+	line-height: 17px;
+	list-style: none;
+	padding: 0;
+}
+
+.footer-list {
+	list-style: none;
+	padding: 0;
+}
+
+.footer-link {
+	color: #18222F;
+}
+
+.footer-link:hover {
+	color: #0D99D6;
+	text-decoration: none;
+}
+
+.footer-title {
+	font-size: 18px;
+	letter-spacing: 0.75px;
+	line-height: 21px;
+}
+
+.blueline {
+	width: 9px;
+	height: 2px;
+	margin: 20px 0px 20px 0px;
+}
+
+.margin-top {
+	margin-top: 77px;
+}
+
+.footer-section2 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+footer > hr {
+	border: 0.902778px solid #9C9C9C;
+	margin: 0px 35px 0px 10px;
+}
+
+.copyright {
+	padding: 20px 0px 0px 3.3%;
+	font-size: 12px;
+	line-height: 14px;
+	letter-spacing: 0.5px;
+	color: #616161;
+}
+
+.social-icons {
+	margin-right: 3.23%;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 20px;
+	width: 50px;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
